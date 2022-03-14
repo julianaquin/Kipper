@@ -1,0 +1,136 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+  }
+
+.navbar{
+    background-color: #eff4f9;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+}
+
+
+
+.fondito{
+    background-image: url(../img/portada.jpg);
+    background-size: cover;
+    min-height: 620px;
+}
+
+
+
+.fondito p{
+    text-align-last: right;
+    color:white;
+}
+
+.titulito{
+    font-size: 60px;
+    color:white;
+    margin-top: 200px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    text-align: right;
+}
+
+.titulo1{
+    margin-top: 90px;
+    margin-bottom: 40px;
+    color: #1a6cb7;
+    font-weight: 500;
+    text-align: center;
+}
+
+#frstp{
+    margin-bottom: 70px;
+}
+
+
+.values{
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.values h4{
+    text-align: center;
+    color: #a0a0a0;
+}
+
+#fondo2{
+    padding-top: 60px;
+    padding-bottom: 160px;
+    background-color: rgb(230, 234, 235);
+}
+
+.seg{
+    padding-top: 40px;
+    margin-top: 30px;
+    margin-bottom: 80px;
+    margin-left: 200px;
+    margin-right:300px;
+    height: 500px;
+}
+
+.titulo2{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    color: #1a6cb7;
+    font-weight: 500;
+}
+
+p{
+    margin-right: 25px;
+    text-align: justify;
+    line-height: 40px;
+ 
+}
+
+#ter{
+    min-height: 600px;
+    margin-bottom: 100px;
+}
+
+.titulo3{
+    text-align: right;
+    margin-top: 90px;
+    margin-bottom: 90px;
+    color: #1a6cb7;
+    font-weight: 500;
+}
+
+#first{
+margin-bottom: 60px;
+}
+
+
+#foot{
+    background-color: black;
+    padding-bottom: 40px;
+}
+
+.titulo4{
+    text-align: left;
+    margin-top: 90px;
+    margin-bottom: 40px;
+    color: #1a6cb7;
+    font-weight: 500;
+}
+
+#foot p{
+    color: white;
+}
+
+footer #phone{
+    margin-top:100px;
+    margin-left: 50px;
+}
+
+
+#mapita{
+    margin-top: 100px;
+    margin-bottom: 60px;
+    display: flex;
+    justify-content: center;
+}
+
